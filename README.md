@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Douglas José Cruz Barrios
-- 👀 I’m interested in websites 
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in software developer 
+- 🌱 I’m currently learning django, springboot and laravel
+- 💞️ I’m looking to collaborate on Backend Projects in Java PHP or Pyhton
 - 📫 How to reach me douglasjosecruzbarrios@gmail.com
 
 <!---
