@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DouglasCruz912
+- 👋 Hi, I’m Douglas José Cruz Barrios
 - 👀 I’m interested in websites 
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django
