@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer 
 - 🌱 I’m currently learning django, springboot and laravel
 - 💞️ I’m looking to collaborate on Backend Projects in Java PHP or Pyhton
-- 📫 How to reach me douglasjosecruzbarrios@gmail.com
+- 📫 How to reach me douglasworker.02@gmail.com
 
 <!---
 DouglasCruz912/DouglasCruz912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
